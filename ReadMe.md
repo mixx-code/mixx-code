@@ -28,11 +28,9 @@ My expertise lies in crafting seamless user experiences using **React.js** and *
 
 ## 📊 GitHub Ecosystem
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mixx-code&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" /> -->
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mixx-code&theme=shadow_blue&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixx-code&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
