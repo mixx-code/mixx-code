@@ -37,6 +37,4 @@ My expertise lies in crafting seamless user experiences using **React.js** and *
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mixx-code&icon=0&color=0" alt="Visitor Count" />
-</p>
+
