@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-i, I’m **Rizki Febriansyah**, a Full Stack Developer with a background in Informatics Engineering from Universitas Pamulang. I have been involved in programming since vocational high school and have internship experience as a **Full Stack Developer at Dumbways** and as a Mobile Developer using React Native.
+Hi, I’m **Rizki Febriansyah**, a Full Stack Developer with a background in Informatics Engineering from Universitas Pamulang. I have been involved in programming since vocational high school and have internship experience as a **Full Stack Developer at Dumbways** and as a Mobile Developer using React Native.
 
 My main stack includes ReactJS, Next.js, Express.js, React Native, Laravel 12, and PHP. I focus on building scalable and maintainable web and mobile applications with clean structure and clear logic.
 
