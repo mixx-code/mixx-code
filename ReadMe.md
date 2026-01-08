@@ -1,14 +1,40 @@
-## 💫 About Me
+# Hi, I'm Rizki Febriansyah 👋
+### Full Stack Developer | Specializing in Scalable Web & Mobile Solutions
 
-Hi, I’m **Rizki Febriansyah**, a Full Stack Developer with a background in Informatics Engineering from Universitas Pamulang. I have been involved in programming since vocational high school and have internship experience as a **Full Stack Developer at Dumbways** and as a Mobile Developer using React Native.
+I am an Informatics Engineering graduate from Universitas Pamulang who leveled up my technical skills through an intensive Full Stack Developer internship at Dumbways. I focus on building high-performance applications that bridge the gap between complex backend logic and intuitive user experiences. I specialize in writing clean, maintainable code using Next.js, React, and TypeScript for the frontend, React Native for mobile, and Laravel or Prisma for robust backend solutions.
 
-My main stack includes ReactJS, Next.js, Express.js, React Native, Laravel 12, and PHP. I focus on building scalable and maintainable web and mobile applications with clean structure and clear logic.
+---
 
-## 🚀 Projects
-- **Circle App**. Social media application.
-- **Job Matcher**. AI based CV analysis system for job recommendations.
-- **Mintar**. Android app for generating summaries, key points, and practice questions from learning modules using AI.
-- **Kodya**. Web based e commerce platform for selling digital products such as websites and mobile applications.
+## 🛠️ Focused Tech Stack
+*I specialize in building end-to-end applications with a focus on Type-Safety and Performance.*
+
+- **Frontend/Mobile:** Next.js (App Router), React Native, TypeScript, Tailwind CSS.
+- **Backend:** Node.js (Express), Laravel 12, Go (Golang).
+- **Database & DevOps:** PostgreSQL (Prisma), Redis, Docker, Firebase.
+
+---
+
+## 🌟 Featured Projects (Problem & Impact)
+
+### 🤖 Mintar – AI Learning Assistant 
+**Problem:** Students often struggle to extract key points and practice effectively from lengthy learning modules.  
+**Solution:** Developed an Android app using **React Native** and AI integration to auto-generate summaries and interactive quizzes.  
+**Stack:** React Native, Gemini Model Ai, Express.js, Suapabase.
+
+### 📄 Job Matcher – AI CV Analyzer
+**Problem:** The gap between CV keywords and job requirements leads to low conversion for job seekers.  
+**Solution:** Built a web system that uses AI to analyze CVs against job descriptions and provide a compatibility score.  
+**Stack:** Next.js, Gemini Model Ai, Suapabase.
+
+### 🏪 Kodya – Digital Product Marketplace
+**Problem:** Local developers need a secure and specialized platform to sell digital assets like web/mobile templates.  
+**Solution:** Created a full-featured e-commerce platform with secure payment flows and digital asset management.  
+**Stack:** Next.js, Midtrans, Tailwindcss, supabase.
+
+### 💬 Circle App – Scalable Social Media
+**Problem:** Handling real-time interactions and complex data relations in a social network.  
+**Solution:** Implemented a robust architecture with **Express.js** and **Prisma** to handle high-frequency data updates and social graphing.
+**Stack:** React.js, Tailwindcss, Express.js, PostgreSQL, Prisma
 
 ## 🌐 Portfolio
 https://mixx-code.github.io/
