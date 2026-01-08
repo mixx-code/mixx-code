@@ -1,12 +1,17 @@
-# 💫 About Me
+## 💫 About Me
 
-Hi, I’m **Rizki Febriansyah**, a Full Stack Developer with a background in Informatics Engineering from Universitas Pamulang. I have been actively involved in programming since vocational high school and continue to grow professionally in software development.
+i, I’m **Rizki Febriansyah**, a Full Stack Developer with a background in Informatics Engineering from Universitas Pamulang. I have been involved in programming since vocational high school and have internship experience as a **Full Stack Developer at Dumbways** and as a Mobile Developer using React Native.
 
-I have internship experience as a Full Stack Developer at Dumbways, where I worked on end to end web application development. I also completed an internship as a Mobile Developer using React Native, which strengthened my understanding of cross platform mobile development and API integration.
+My main stack includes ReactJS, Next.js, Express.js, React Native, Laravel 12, and PHP. I focus on building scalable and maintainable web and mobile applications with clean structure and clear logic.
 
-My core stack includes ReactJS, Next.js, Express.js, React Native, Laravel 12, and PHP. I focus on building structured, scalable, and maintainable applications, both for web and mobile platforms. I am comfortable working across frontend and backend layers, from UI implementation to business logic and database interaction.
+## 🚀 Projects
+- **Circle App**. Social media application.
+- **Job Matcher**. AI based CV analysis system for job recommendations.
+- **Mintar**. Android app for generating summaries, key points, and practice questions from learning modules using AI.
+- **Kodya**. Web based e commerce platform for selling digital products such as websites and mobile applications.
 
-I am used to learning independently, applying industry best practices, and solving technical problems systematically. I am open to collaboration, real world projects, and opportunities in software development.
+## 🌐 Portfolio
+https://mixx-code.github.io/
 
 ---
 
